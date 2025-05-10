@@ -1,7 +1,7 @@
 # 👩‍💻 Hello, I'm Dieu Linh
 
 I’m a second-year Software Engineering student with a passion for back-end development and writing clean, maintainable code.
-With a strong foundation in Java, SQL, and object-oriented programming, I enjoy building efficient systems and collaborating to solve real-world problems.
+With a foundation in Java, SQL, and object-oriented programming, I enjoy building efficient systems and collaborating to solve real-world problems.
 
 ## 🛠 Technologies I use
 - **Programming languages:** Java, JavaScript
